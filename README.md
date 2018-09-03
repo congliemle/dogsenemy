@@ -3,7 +3,7 @@ A single page application where the user can search for all the cats.
 
 Deployed on GitHub Pages. You can view it here https://congliemle.github.io/dogsenemy/
 
-This project was created with HTML5, CSS3, JavaScript, React, Redux, tachyons, robohash API and jsonplaceholder API.
+This project was created with HTML5, CSS3, JavaScript, React, tachyons, robohash API and jsonplaceholder API.
 ## Instructions
 To run this app in local environment, clone project directory.
 * cd dogsenemy
