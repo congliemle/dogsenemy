@@ -1,5 +1,5 @@
 # dogsenemy
-A single page application where the user can search for robot friends among all.
+A single page application where the user can search for all the cats.
 
 Deployed on GitHub Pages. You can view it here https://congliemle.github.io/dogsenemy/
 
